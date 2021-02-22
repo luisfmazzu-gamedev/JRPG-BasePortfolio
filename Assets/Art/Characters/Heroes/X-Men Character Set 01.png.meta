@@ -1,0 +1,2276 @@
+fileFormatVersion: 2
+guid: 364e622726ca48c42a1dbdfc541e9009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9021393238422222694
+    second: X-Men Character Set 01_0
+  - first:
+      213: -4593258876723604649
+    second: X-Men Character Set 01_1
+  - first:
+      213: -1403671034738038925
+    second: X-Men Character Set 01_2
+  - first:
+      213: -4729302249114612520
+    second: X-Men Character Set 01_3
+  - first:
+      213: 2589730181678107301
+    second: X-Men Character Set 01_4
+  - first:
+      213: -7409408719221806554
+    second: X-Men Character Set 01_5
+  - first:
+      213: -4362948661243266690
+    second: X-Men Character Set 01_6
+  - first:
+      213: 1316570639231503719
+    second: X-Men Character Set 01_7
+  - first:
+      213: 6519136525101231135
+    second: X-Men Character Set 01_8
+  - first:
+      213: -7372976223310405016
+    second: X-Men Character Set 01_9
+  - first:
+      213: -1326274222376137550
+    second: X-Men Character Set 01_10
+  - first:
+      213: -2432967934101168298
+    second: X-Men Character Set 01_11
+  - first:
+      213: 8975248097779819072
+    second: X-Men Character Set 01_12
+  - first:
+      213: -1080676678311289286
+    second: X-Men Character Set 01_13
+  - first:
+      213: -6796402699114294008
+    second: X-Men Character Set 01_14
+  - first:
+      213: -2447033963839068976
+    second: X-Men Character Set 01_15
+  - first:
+      213: -9092146900717649546
+    second: X-Men Character Set 01_16
+  - first:
+      213: 1450724288544138116
+    second: X-Men Character Set 01_17
+  - first:
+      213: -8733391879393088938
+    second: X-Men Character Set 01_18
+  - first:
+      213: 6133540116405325047
+    second: X-Men Character Set 01_19
+  - first:
+      213: 4065832471343064952
+    second: X-Men Character Set 01_20
+  - first:
+      213: 6077164721448699423
+    second: X-Men Character Set 01_21
+  - first:
+      213: -4329918326854513257
+    second: X-Men Character Set 01_22
+  - first:
+      213: -2790534749958995421
+    second: X-Men Character Set 01_23
+  - first:
+      213: 4626064632554119028
+    second: X-Men Character Set 01_24
+  - first:
+      213: 4389473234263451467
+    second: X-Men Character Set 01_25
+  - first:
+      213: -6013905763198544847
+    second: X-Men Character Set 01_26
+  - first:
+      213: -2283017183498897140
+    second: X-Men Character Set 01_27
+  - first:
+      213: 723031936173348579
+    second: X-Men Character Set 01_28
+  - first:
+      213: 3808986072841586934
+    second: X-Men Character Set 01_29
+  - first:
+      213: -983273346867880116
+    second: X-Men Character Set 01_30
+  - first:
+      213: -417314154583301327
+    second: X-Men Character Set 01_31
+  - first:
+      213: -312192855105371352
+    second: X-Men Character Set 01_32
+  - first:
+      213: 2804103975791715242
+    second: X-Men Character Set 01_33
+  - first:
+      213: 565578941810817213
+    second: X-Men Character Set 01_34
+  - first:
+      213: -9149778102145908450
+    second: X-Men Character Set 01_35
+  - first:
+      213: 2918583227504446033
+    second: X-Men Character Set 01_36
+  - first:
+      213: 1010395290292345081
+    second: X-Men Character Set 01_37
+  - first:
+      213: -2700148252768914648
+    second: X-Men Character Set 01_38
+  - first:
+      213: 6946669272272249924
+    second: X-Men Character Set 01_39
+  - first:
+      213: 1706735572619048720
+    second: X-Men Character Set 01_40
+  - first:
+      213: 5220821547209400674
+    second: X-Men Character Set 01_41
+  - first:
+      213: 2983967749906765290
+    second: X-Men Character Set 01_42
+  - first:
+      213: 634310995324198617
+    second: X-Men Character Set 01_43
+  - first:
+      213: 640949926107792634
+    second: X-Men Character Set 01_44
+  - first:
+      213: 6721784377837036479
+    second: X-Men Character Set 01_45
+  - first:
+      213: -442378441385335968
+    second: X-Men Character Set 01_46
+  - first:
+      213: 6423831865578667221
+    second: X-Men Character Set 01_47
+  - first:
+      213: -5200222690680605133
+    second: X-Men Character Set 01_48
+  - first:
+      213: -2053896970703029470
+    second: X-Men Character Set 01_49
+  - first:
+      213: -3930598548557991287
+    second: X-Men Character Set 01_50
+  - first:
+      213: -4405672618409222666
+    second: X-Men Character Set 01_51
+  - first:
+      213: -378637146161674801
+    second: X-Men Character Set 01_52
+  - first:
+      213: 8842447084398025522
+    second: X-Men Character Set 01_53
+  - first:
+      213: 7253825262974370150
+    second: X-Men Character Set 01_54
+  - first:
+      213: -7963955271006671076
+    second: X-Men Character Set 01_55
+  - first:
+      213: -8166929341154601905
+    second: X-Men Character Set 01_56
+  - first:
+      213: -59443001922208727
+    second: X-Men Character Set 01_57
+  - first:
+      213: 1195383620053192424
+    second: X-Men Character Set 01_58
+  - first:
+      213: -8506236955923037511
+    second: X-Men Character Set 01_59
+  - first:
+      213: -1765367623429029446
+    second: X-Men Character Set 01_60
+  - first:
+      213: 2697047754335589180
+    second: X-Men Character Set 01_61
+  - first:
+      213: 8417726088288724178
+    second: X-Men Character Set 01_62
+  - first:
+      213: 2984114726826618561
+    second: X-Men Character Set 01_63
+  - first:
+      213: 459276104997994720
+    second: X-Men Character Set 01_64
+  - first:
+      213: 3611994946899228810
+    second: X-Men Character Set 01_65
+  - first:
+      213: 279954344242899042
+    second: X-Men Character Set 01_66
+  - first:
+      213: -8574022857911504325
+    second: X-Men Character Set 01_67
+  - first:
+      213: -3369959777104651607
+    second: X-Men Character Set 01_68
+  - first:
+      213: 2284201231277571814
+    second: X-Men Character Set 01_69
+  - first:
+      213: -7911788878735206039
+    second: X-Men Character Set 01_70
+  - first:
+      213: 4919910568492565352
+    second: X-Men Character Set 01_71
+  - first:
+      213: 8096039988938216269
+    second: X-Men Character Set 01_72
+  - first:
+      213: -2740760690148121102
+    second: X-Men Character Set 01_73
+  - first:
+      213: 4375157799820804464
+    second: X-Men Character Set 01_74
+  - first:
+      213: -4239922682128649344
+    second: X-Men Character Set 01_75
+  - first:
+      213: 7027985082141282361
+    second: X-Men Character Set 01_76
+  - first:
+      213: 4585431870810276561
+    second: X-Men Character Set 01_77
+  - first:
+      213: 1705054846355805124
+    second: X-Men Character Set 01_78
+  - first:
+      213: 5987446742267491196
+    second: X-Men Character Set 01_79
+  - first:
+      213: -8763044094154500536
+    second: X-Men Character Set 01_80
+  - first:
+      213: -1830791128621491965
+    second: X-Men Character Set 01_81
+  - first:
+      213: -3161145073748366155
+    second: X-Men Character Set 01_82
+  - first:
+      213: -6788936132445223115
+    second: X-Men Character Set 01_83
+  - first:
+      213: -9202872194217270772
+    second: X-Men Character Set 01_84
+  - first:
+      213: 3552323136620700068
+    second: X-Men Character Set 01_85
+  - first:
+      213: 4725211415087681346
+    second: X-Men Character Set 01_86
+  - first:
+      213: 339733198463703977
+    second: X-Men Character Set 01_87
+  - first:
+      213: 6140932053922561890
+    second: X-Men Character Set 01_88
+  - first:
+      213: 4506295167142870241
+    second: X-Men Character Set 01_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: X-Men Character Set 01_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a988bb4a5a29dc280800000000000000
+      internalID: -9021393238422222694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 336
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753da7343677140c0800000000000000
+      internalID: -4593258876723604649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 336
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772fe081a8258ce0800000000000000
+      internalID: -1403671034738038925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 336
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc411e49a42e5eb0800000000000000
+      internalID: -4729302249114612520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 336
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa080711e190f320800000000000000
+      internalID: 2589730181678107301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 336
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2a1fc60e7c2990800000000000000
+      internalID: -7409408719221806554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 336
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e793459fe41b373c0800000000000000
+      internalID: -4362948661243266690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 336
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4a195506654210800000000000000
+      internalID: 1316570639231503719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 336
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ceee43120a87a50800000000000000
+      internalID: 6519136525101231135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ae28403deda990800000000000000
+      internalID: -7372976223310405016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc43842f90289de0800000000000000
+      internalID: -1326274222376137550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 288
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fdbf9ed8c5c3ed0800000000000000
+      internalID: -2432967934101168298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 288
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042aa2f879c7e8c70800000000000000
+      internalID: 8975248097779819072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 288
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed438694aa001f0800000000000000
+      internalID: -1080676678311289286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 288
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80559c801c35ea1a0800000000000000
+      internalID: -6796402699114294008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46e0823936a0ed0800000000000000
+      internalID: -2447033963839068976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 288
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714e09e09432d180800000000000000
+      internalID: -9092146900717649546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_17
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 288
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48364bddd02022410800000000000000
+      internalID: 1450724288544138116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 240
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a6e707b52ccc680800000000000000
+      internalID: -8733391879393088938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc82fd2d36be1550800000000000000
+      internalID: 6133540116405325047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 240
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877e6aa471dbc6830800000000000000
+      internalID: 4065832471343064952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 240
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f164c7fad1d665450800000000000000
+      internalID: 6077164721448699423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d026df83a09e3c0800000000000000
+      internalID: -4329918326854513257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 240
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228f470e670649d0800000000000000
+      internalID: -2790534749958995421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 240
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd26bf545133040800000000000000
+      internalID: 4626064632554119028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ab5f66aa8aec30800000000000000
+      internalID: 4389473234263451467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 240
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13450e742905a8ca0800000000000000
+      internalID: -6013905763198544847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 241
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c097f61b7f71150e0800000000000000
+      internalID: -2283017183498897140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 241
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e610e417b9b80a00800000000000000
+      internalID: 723031936173348579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 241
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8022207ac3cd430800000000000000
+      internalID: 3808986072841586934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f94d2c916ba52f0800000000000000
+      internalID: -983273346867880116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133e158ccf6653af0800000000000000
+      internalID: -417314154583301327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823870a904edaabf0800000000000000
+      internalID: -312192855105371352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 192
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3635e85bd2ae620800000000000000
+      internalID: 2804103975791715242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8331f0d0759d700800000000000000
+      internalID: 565578941810817213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_35
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 192
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1102ff2b45750180800000000000000
+      internalID: -9149778102145908450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ac0da6bf3e08820800000000000000
+      internalID: 2918583227504446033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 192
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85a98c925a50e00800000000000000
+      internalID: 1010395290292345081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 192
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82331d85875278ad0800000000000000
+      internalID: -2700148252768914648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 193
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a8e9e5e6876060800000000000000
+      internalID: 6946669272272249924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 193
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173b7be5fa8fa710800000000000000
+      internalID: 1706735572619048720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 193
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2612f1d3985147840800000000000000
+      internalID: 5220821547209400674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae51a6adbde296920800000000000000
+      internalID: 2983967749906765290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5c615d768dc800800000000000000
+      internalID: 634310995324198617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4c778df8c15e800800000000000000
+      internalID: 640949926107792634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_45
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb32fb13743984d50800000000000000
+      internalID: 6721784377837036479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 144
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063afe0c62b5cd9f0800000000000000
+      internalID: -442378441385335968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_47
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 144
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcb6acfb09062950800000000000000
+      internalID: 6423831865578667221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_48
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 144
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367e09c30915d7b0800000000000000
+      internalID: -5200222690680605133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bbeff46971f73e0800000000000000
+      internalID: -2053896970703029470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 144
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f88ef175b379c0800000000000000
+      internalID: -3930598548557991287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 145
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd9d078818ebd2c0800000000000000
+      internalID: -4405672618409222666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_52
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 145
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5044c858fcebaf0800000000000000
+      internalID: -378637146161674801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 145
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b9bb226cea6ba70800000000000000
+      internalID: 8842447084398025522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 96
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661875ee4a3caa460800000000000000
+      internalID: 7253825262974370150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2c8830e85a7190800000000000000
+      internalID: -7963955271006671076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44d3c2d80d39ae80800000000000000
+      internalID: -8166929341154601905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 96
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c3b0a97e0dc2ff0800000000000000
+      internalID: -59443001922208727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee479ba11bd69010800000000000000
+      internalID: 1195383620053192424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 96
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b248ea7e86c3f980800000000000000
+      internalID: -8506236955923037511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18983ff772087e0800000000000000
+      internalID: -1765367623429029446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 96
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33107b94a6dd6520800000000000000
+      internalID: 2697047754335589180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 96
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ecfc3745c1d470800000000000000
+      internalID: 8417726088288724178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_63
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 97
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce23859884b96920800000000000000
+      internalID: 2984114726826618561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_64
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 97
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e00b342f2daf5600800000000000000
+      internalID: 459276104997994720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_65
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 97
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883f6c5442602230800000000000000
+      internalID: 3611994946899228810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ece92ef892e300800000000000000
+      internalID: 279954344242899042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32fa1a43a3f20980800000000000000
+      internalID: -8574022857911504325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9252007f7b31d0800000000000000
+      internalID: -3369959777104651607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3fc9eaec13bf10800000000000000
+      internalID: 2284201231277571814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9691a19eeeda33290800000000000000
+      internalID: -7911788878735206039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 48
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86380b16898074440800000000000000
+      internalID: 4919910568492565352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 48
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43150ca979ea5070800000000000000
+      internalID: 8096039988938216269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_73
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 48
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ed596cacd6f9d0800000000000000
+      internalID: -2740760690148121102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_74
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 48
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071499e96dea7bc30800000000000000
+      internalID: 4375157799820804464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_75
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 49
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b990e8c4c825c0800000000000000
+      internalID: -4239922682128649344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_76
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 49
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93096c3423b688160800000000000000
+      internalID: 7027985082141282361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_77
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 49
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2c669edf9b2af30800000000000000
+      internalID: 4585431870810276561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39897595299a710800000000000000
+      internalID: 1705054846355805124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c737c68d61fa71350800000000000000
+      internalID: 5987446742267491196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84616d033d9636680800000000000000
+      internalID: -8763044094154500536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_81
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30954902b29b796e0800000000000000
+      internalID: -1830791128621491965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_82
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bca0cbcd4b5124d0800000000000000
+      internalID: -3161145073748366155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_83
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537c9ce8e8ad8c1a0800000000000000
+      internalID: -6788936132445223115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_84
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022c5e8f74d84080800000000000000
+      internalID: -9202872194217270772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1adad52136c4130800000000000000
+      internalID: 3552323136620700068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_86
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0cec2fb2539140800000000000000
+      internalID: 4725211415087681346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_87
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab16d44b89f6b400800000000000000
+      internalID: 339733198463703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3ddfba29f83550800000000000000
+      internalID: 6140932053922561890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X-Men Character Set 01_89
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3c924493998e30800000000000000
+      internalID: 4506295167142870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
